@@ -1,4 +1,4 @@
-
+This is a fork for my personal use. Check out the original project at https://github.com/WeAreLeka/Bare-Arduino-Project/blob/master/INSTALL.md
 # Bare Arduino Project
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
